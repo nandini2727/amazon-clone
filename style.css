@@ -97,7 +97,7 @@
 
 }
 .flag{
-    background-image:url(united-states.png) ;
+    background-image:url(assets/united-states.png) ;
     height: 17px;
     width: 20px;
     background-size: cover;
@@ -185,7 +185,7 @@ span{
 /**hero-section**/
 
 #hero-section{
-    background-image: url(hero_image.jpg);
+    background-image: url(assets/hero_image.jpg);
     background-size: cover;
     height: 350px;
     display: flex;
